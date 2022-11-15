@@ -1,4 +1,4 @@
-﻿# decoder-ring
+﻿# Decoder Ring
 Message Decoder App that allows a user to encode or decode messages using 3 different cipher algorithms detailed below.
 
 ## Project setup
